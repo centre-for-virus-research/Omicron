@@ -1,0 +1,2 @@
+# Omicron
+Omicron study
